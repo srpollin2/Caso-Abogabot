@@ -9,3 +9,10 @@
 - Al usuario le llegan correos de notificación para saber el avance de su proceso.
 - La página debe de ser responsive para poderla ver desde el celular.
 - La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
+
+- **Practicas**
+  - [Toma de requerimientos]  [ ] <br>
+    - [Crea tu buyer persona]
+  - [Publico objetivo]  [ ] <br>
+  - [Crea tu primer Wireframe UX]  [ ]  <br>
+  - [Ahora el UI]   [ ] <br>
