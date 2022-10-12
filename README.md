@@ -16,3 +16,11 @@
   - [Publico objetivo]  [ ] <br>
   - [Crea tu primer Wireframe UX]  [ ]  <br>
   - [Ahora el UI]   [ ] <br>
+  
+  
+- **Video de clases**
+  - 26/09/22 -- Live de bienvenida --> Visto
+
+  - 28/09/22 -- Live de introducción a FrontEnd --> Visto
+ 
+  - 30/09/22 -- Práctica de diseño de aplicaciones --> 
