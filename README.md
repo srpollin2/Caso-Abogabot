@@ -23,4 +23,6 @@
 
   - 28/09/22 -- Live de introducción a FrontEnd --> Visto
  
-  - 30/09/22 -- Práctica de diseño de aplicaciones --> 
+  - 30/09/22 -- Práctica de diseño de aplicaciones --> Viendo
+  
+  - 05/10/22 -- Tipos y estructuras de programación --> 
