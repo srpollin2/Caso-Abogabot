@@ -18,7 +18,7 @@
   - [Ahora el UI]   [ ] <br>
   
   
-- **Video de clases**
+- **Video de clases: Módulo 1 - Diseño y Estructura de ideas**
   - 26/09/22 -- Live de bienvenida --> Visto
 
   - 28/09/22 -- Live de introducción a FrontEnd --> Visto
@@ -26,3 +26,7 @@
   - 30/09/22 -- Práctica de diseño de aplicaciones --> Viendo
   
   - 05/10/22 -- Tipos y estructuras de programación --> 
+
+- **Video de clases: Modulo 2: - HTML**
+  - 07/10/22 -- Primer live de HTML intro --> 
+  - 12/10/22 -- Elementos compuestos y formularios en HTML --> 
